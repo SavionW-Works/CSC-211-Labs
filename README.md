@@ -4,11 +4,11 @@ A collection of labs I completed for my CSC 211 (Intermediate Programming) class
 
 Course description: 3 hours, 3 laboratory hours; 4 credits. A second course in programming. Programming techniques emphasizing reliability, maintainability, and reusability. Module design and multi-file programs. Abstract data types. Data representation and conversion. Addresses, pointers, and dynamic storage allocation. Recursion and function parameters. User interface design.  
 
-Breif Lab Descriptions: 
-Lab 1 - Pet Store Inventory Program with inFile
-Lab 2 - Pyramid and Calender Generator 
-Lab 3 - Abstracted Pyramid and Calender Generator  
-Lab 4 - Craps Simulator with Winrate Calculator 
-Lab 5 - Tic-Tac Toe Simulator
-Lab 6 - Defining Triangles with Enumeration 
-Lab 7 - Customer Flow Simulator by Defining Functions with Structs 
+Breif Lab Descriptions: <br />
+Lab 1 - Pet Store Inventory Program with inFile <br />
+Lab 2 - Pyramid and Calender Generator <br />
+Lab 3 - Abstracted Pyramid and Calender Generator <br />  
+Lab 4 - Craps Simulator with Winrate Calculator <br /> 
+Lab 5 - Tic-Tac Toe Simulator <br />
+Lab 6 - Defining Triangles with Enumeration <br /> 
+Lab 7 - Customer Flow Simulator by Defining Functions with Structs <br /> 
