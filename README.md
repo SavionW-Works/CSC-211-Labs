@@ -9,6 +9,7 @@ Lab 1 - Pet Store Inventory Program with inFile <br />
 Lab 2 - Pyramid and Calender Generator <br />
 Lab 3 - Abstracted Pyramid and Calender Generator <br />  
 Lab 4 - Craps Simulator with Winrate Calculator <br /> 
-Lab 5 - Tic-Tac Toe Simulator <br />
+Lab 5 - Tic-Tac Toe Simulator with Arrays <br />
 Lab 6 - Defining Triangles with Enumeration <br /> 
-Lab 7 - Customer Flow Simulator by Defining Functions with Structs <br /> 
+Lab 7 - Customer Flow Simulator by Defining Functions with Structures <br /> 
+Lab 8 - Restaraunt Menu and Billing Programs with Structure calls <br />
