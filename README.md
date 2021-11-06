@@ -13,6 +13,8 @@ Lab 5 - Tic-Tac Toe Simulator with Arrays <br />
 Lab 6 - Defining Triangles with Enumeration <br /> 
 Lab 7 - Customer Flow Simulator by Defining Functions with Structures <br /> 
 Lab 8 - Restaraunt Menu and Billing Programs with Structure calls <br />
-Lab 9 - FIFO Queue with Structures <br /> 
-Lab 12 - Redo of Lab 8, but with Pointers <br />
+Lab 9 - FIFO Queue with Structures <br />
+Lab 10 - Practice Assigning Pointers <br />
+Lab 11 - Redo of Lab 8, but with Pointers <br />
+Lab 12 - Redo of Lab 8, but with Pointers and Dynamic Arrays <br />
 Lab 13 - Practice with Header, Main and Implementation Files <br />
