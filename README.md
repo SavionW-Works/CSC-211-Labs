@@ -20,3 +20,4 @@ Lab 12 - Redo of Lab 8, but with Pointers and Dynamic Arrays <br />
 Lab 13 - Practice with Header, Main and Implementation Files <br />
 Lab 14 - Practice with Classes <br />
 Lab 16 - Practice with Inline and Friend Functions <br />
+Lab 17 - Redo of Lab 16 with additional Inline functions <br />
