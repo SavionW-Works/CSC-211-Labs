@@ -2,7 +2,7 @@
 A collection of labs I completed for my CSC 211 (Intermediate Programming) class in C++. Will be updated gradually until I finish the course.
 
 
-Course description: 3 hours, 3 laboratory hours; 4 credits. A second course in programming. Programming techniques emphasizing reliability, maintainability, and reusability. Module design and multi-file programs. Abstract data types. Data representation and conversion. Addresses, pointers, and dynamic storage allocation. Recursion and function parameters. User interface design.  <br />
+Course description: _3 hours, 3 laboratory hours; 4 credits. A second course in programming. Programming techniques emphasizing reliability, maintainability, and reusability. Module design and multi-file programs. Abstract data types. Data representation and conversion. Addresses, pointers, and dynamic storage allocation. Recursion and function parameters. User interface design._  <br />
 
 Lab Descriptions: <br />
 Lab  1 - Pet Store Inventory Program with inFile <br />
