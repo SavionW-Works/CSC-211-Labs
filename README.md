@@ -22,4 +22,6 @@ Lab 14 - Practice with Classes <br />
 Lab 15 - Redo of Lab 8, but with Classes <br />
 Lab 16 - Practice with Inline and Friend Functions <br />
 Lab 17 - Redo of Lab 16, but with additional Inline functions <br /> 
+Lab 18 - Redo of Lab 9, but with Classes <br /> 
+Lab 19 - Practice with Class Templates <br />
 Lab 20 - Bubble sort with Classes
