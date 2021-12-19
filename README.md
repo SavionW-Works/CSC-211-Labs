@@ -1,5 +1,5 @@
 # CSC-211-Labs
-A collection of labs I completed for my CSC 211 (Intermediate Programming) class in C++. Will be updated gradually until I finish the course.
+A collection of labs I completed for my CSC 211 (Intermediate Programming) class in C++. 
 
 
 Course description: _3 hours, 3 laboratory hours; 4 credits. A second course in programming. Programming techniques emphasizing reliability, maintainability, and reusability. Module design and multi-file programs. Abstract data types. Data representation and conversion. Addresses, pointers, and dynamic storage allocation. Recursion and function parameters. User interface design._  <br />
